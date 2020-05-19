@@ -29,4 +29,15 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+/* IMPORT FONT HERE  */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,900&display=swap');
+
+html, body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#app {
+  font-family: 'Montserrat', sans-serif;
+}
 </style>
